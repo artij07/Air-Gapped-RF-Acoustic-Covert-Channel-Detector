@@ -1,0 +1,14 @@
+{
+    "normal_audio.wav": {
+        "status": "NORMAL",
+        "pulse_count": 0,
+        "target_frequency_hz": 1000,
+        "active_windows": 0
+    },
+    "suspicious_audio.wav": {
+        "status": "NORMAL",
+        "pulse_count": 2,
+        "target_frequency_hz": 1000,
+        "active_windows": 43
+    }
+}

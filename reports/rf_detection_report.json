@@ -1,0 +1,34 @@
+{
+    "normal_rf.csv": {
+        "status": "NORMAL",
+        "suspicious_frequency_detected": false,
+        "detected_peaks": [
+            {
+                "frequency_hz": 50.0,
+                "amplitude": 0.496
+            },
+            {
+                "frequency_hz": 120.0,
+                "amplitude": 0.198
+            }
+        ]
+    },
+    "suspicious_rf.csv": {
+        "status": "SUSPICIOUS",
+        "suspicious_frequency_detected": true,
+        "detected_peaks": [
+            {
+                "frequency_hz": 50.0,
+                "amplitude": 0.509
+            },
+            {
+                "frequency_hz": 120.0,
+                "amplitude": 0.201
+            },
+            {
+                "frequency_hz": 250.0,
+                "amplitude": 1.499
+            }
+        ]
+    }
+}
