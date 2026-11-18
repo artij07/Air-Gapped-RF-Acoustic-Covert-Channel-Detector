@@ -1,0 +1,18 @@
+{
+    "project": "AetherHound",
+    "analysis_band_hz": [
+        200,
+        300
+    ],
+    "threshold": 0.05,
+    "normal_signal": {
+        "peak_frequency_hz": 248.4,
+        "peak_amplitude": 0.016951917374727905,
+        "status": "NORMAL"
+    },
+    "suspicious_signal": {
+        "peak_frequency_hz": 250.0,
+        "peak_amplitude": 1.0035047856322146,
+        "status": "SUSPICIOUS"
+    }
+}
