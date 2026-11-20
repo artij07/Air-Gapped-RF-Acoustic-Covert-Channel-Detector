@@ -1,0 +1,15 @@
+{
+    "project": "AetherHound",
+    "evaluation_type": "Synthetic RF signal evaluation",
+    "metrics": {
+        "total_samples": 20,
+        "true_positive": 10,
+        "true_negative": 10,
+        "false_positive": 0,
+        "false_negative": 0,
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0
+    }
+}
